@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishorvasanth.
-- 👀 I’m interested in Software.
-- 🌱 I’m currently learning node.js, cds, fiori.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning Pyspark, Langchain, Apache Airflow.
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me 20kishor01@gmail.com
 
