@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Pyspark, Langchain, Apache Airflow.
 - 💞️ I’m looking to collaborate on Python.
-- 📫 How to reach me 20kishor01@gmail.com
+- 📫 How to reach me kishorvasanth.v@gmail.com
 
 <!---
 kishorvasanth/kishorvasanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
